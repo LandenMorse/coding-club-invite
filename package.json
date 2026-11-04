@@ -1,0 +1,13 @@
+{
+  "name": "coding-club-invite",
+  "version": "1.0.0",
+  "description": "ASCII / Three.js invite for the Coding Club meeting, with a playable Square Rage level",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "esbuild": "^0.28.2",
+    "three": "^0.187.0"
+  },
+  "private": true
+}
